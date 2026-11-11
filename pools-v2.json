@@ -1844,5 +1844,12 @@
     "addresses": [],
     "tags": ["/trustpool/"],
     "link": "https://trustpool.cc"
+  },
+  {
+    "id": 173,
+    "name": "SatoshiNet Lucky Mining",
+    "addresses": [],
+    "tags": ["satoshinet"],
+    "link": "https://sat20.org"
   }
 ]
